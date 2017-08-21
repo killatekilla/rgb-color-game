@@ -4,3 +4,5 @@
  - HMTL
  - CSS
  - JS
+
+You can play [here](https://killatekilla.github.io/projects/rgb-game/)
